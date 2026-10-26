@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
+
+# Local dataset
+data/*
+!data/README.md
+
+# Trained model binaries
+models/*.joblib
+models/*.pkl
