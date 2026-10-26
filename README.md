@@ -263,14 +263,14 @@ The values above are illustrative. Actual predictions depend on the submitted fe
 ## Screenshots
 
 Screenshots will be added to document the application's capabilities:
-
-- Exploratory data analysis and target distribution
-- Model comparison and evaluation
 - FastAPI Swagger documentation
+<img width="1268" height="622" alt="image" src="https://github.com/user-attachments/assets/1fe6595a-4628-42bc-8d44-38a83a78d706" />
+ 
 - Successful API prediction response
-- Streamlit prediction dashboard
+<img width="1183" height="299" alt="image" src="https://github.com/user-attachments/assets/e881ef97-ade4-4672-85de-c3aca6ca89c6" />
 
-Save screenshots in a dedicated folder such as `docs/images/` and reference them here once they are available.
+- Streamlit prediction dashboard
+<img width="1270" height="481" alt="image" src="https://github.com/user-attachments/assets/d0d7df9e-ff55-4419-aed3-63b879082268" />
 
 ## Key Learnings
 
